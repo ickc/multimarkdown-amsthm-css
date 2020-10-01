@@ -30,7 +30,7 @@ A `font.css` is given in [fonts/fonts.css](https://cdn.jsdelivr.net/gh/ickc/mark
 It loads the Latin Modern Roman as the main fonts and Latin Modern Mono as the code font. The font is chosen to make it looks as close to the LaTeX's as possible. A couple of fallback fonts as well as some Chinese system fonts are added for compatibility.
 
 They are not included in the combined css mentioned above, since it is huge. If you need to load it, load it after the combined css.
-
+You can use google fonts to enhance your site in a better way.
 # JS #
 
 ## Setup Files ##
